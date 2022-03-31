@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="16px" viewBox="0 0 30 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 10</title>
+    <defs>
+        <path d="M182,0 L182,403 L105.556,403 L91,417.556349 L76.443,403 L10,403 C4.4771525,403 6.76353751e-16,398.522847 0,393 L0,0 L182,0 Z" id="path-1111"></path>
+        <filter x="-8.5%" y="-2.8%" width="117.0%" height="107.4%" filterUnits="objectBoundingBox" id="filter-2111">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.152941176   0 0 0 0 0.521568627   0 0 0 0 1  0 0 0 0.213793775 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="日报信息管理系统" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的看板" transform="translate(-313.000000, -584.000000)">
+            <g id="编组-5" transform="translate(202.000000, 177.000000)">
+                <g id="形状结合">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2111)" xlink:href="#path-1111"></use>
+                    <path stroke="#2785FF" stroke-width="1" d="M181.5,0.5 L181.5,402.5 L105.34889,402.5 L90.9999879,416.849246 L76.6501002,402.5 L10,402.5 C7.37664744,402.5 5.00164744,401.436676 3.28248558,399.717514 C1.56332372,397.998353 0.5,395.623353 0.5,393 L0.5,393 L0.5,0.5 L181.5,0.5 Z" stroke-linejoin="square" fill-opacity="0.177782179" fill="#FFFFFF" fill-rule="evenodd"></path>
+                </g>
+                <g id="编组-10" transform="translate(111.000000, 407.000000)">
+                    <polygon id="路径-4" fill="#FFFFFF" points="0 0 30 0 15 16"></polygon>
+                    <path d="M2.98383799,2.44281577 L15.0487118,9.9398802 L27.0271947,2.44884028 L15.0467037,15.268942 L2.98383799,2.44281577 Z" id="路径-3" stroke="#2785FF" fill="#559AF4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

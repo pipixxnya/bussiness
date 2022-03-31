@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>企业icon</title>
+    <g id="日报信息管理系统" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用户管理" transform="translate(-218.000000, -188.000000)" fill="#ADAFB8">
+            <g id="编组-4" transform="translate(218.000000, 188.000000)">
+                <g id="编组-2" fill-rule="nonzero">
+                    <path d="M0,12.8571429 L0,0 L8.06829834,2.07657881 L8.068,4.993 L12,6.1147618 L12,12.8571429 L0,12.8571429 Z M7.2614685,2.69142103 L0.806829834,1.0296476 L0.806829834,12.060893 L7.2614685,12.060893 L7.2614685,2.69142103 Z M8.068,5.821 L8.068,12.06 L11.1931503,12.060893 L11.1931503,6.71327902 L8.068,5.821 Z" id="形状结合"></path>
+                </g>
+                <polygon id="路径-7" fill-rule="nonzero" points="6.05122375 3.66414448 6.05122375 4.66414448 1.90729324 4.66414448 1.90729324 3.66414448"></polygon>
+                <polygon id="路径-7备份" fill-rule="nonzero" points="6.05122375 6.04787329 6.05122375 7.04787329 1.90729324 7.04787329 1.90729324 6.04787329"></polygon>
+                <polygon id="路径-7备份-2" fill-rule="nonzero" points="6.05122375 8.4316021 6.05122375 9.4316021 1.90729324 9.4316021 1.90729324 8.4316021"></polygon>
+                <rect id="矩形" x="9.27854309" y="10.0501854" width="1" height="2.38372881"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

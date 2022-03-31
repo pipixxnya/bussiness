@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="32px" viewBox="0 0 147 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状结合</title>
+    <g id="物联网3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="业务平台-主机构-无数据" transform="translate(-872.000000, -746.000000)" fill="#F2F8FF">
+            <g id="编组-20" transform="translate(872.000000, 746.000000)">
+                <path d="M146.831478,0 C138.043032,1.24577279 131.476712,2.8033923 127.13252,4.67285852 C122.972522,6.46305937 119.385758,9.16943071 116.372227,12.7919725 L109.363049,23.183578 C105.645143,28.6958008 99.4309749,32 92.7821085,32 L92.7821085,32 L0,32 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 L10,0 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

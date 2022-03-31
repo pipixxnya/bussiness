@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 8</title>
+    <g id="物联网3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="业务平台-主机构-无数据备份" transform="translate(-38.000000, -264.000000)">
+            <g id="编组-8" transform="translate(38.000000, 264.000000)">
+                <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="16" height="16" rx="2"></rect>
+                <polygon id="矩形" fill="#1283ED" points="4.48285336 3 11.1340085 3 11.9314134 11.3036573 3.65523557 11.3036573"></polygon>
+                <polygon id="路径-4" fill="#1283ED" points="2.63750159 11.3036573 2 13 14 13 13.5099079 11.3036573"></polygon>
+                <polygon id="路径-5" fill-opacity="0.199874344" fill="#D8D8D8" opacity="0.516987645" points="3.65523557 11.3036573 3.77923853 10.200295 11.8322897 10.200295 11.9314134 11.3036573"></polygon>
+                <g id="编组-5" transform="translate(7.000000, 5.000000)" fill="#FFFFFF">
+                    <polygon id="矩形" points="2.70076174e-15 3.93793351e-14 1.65523557 4.22300711e-14 1.37531867 3.32146294 0.222094155 3.32146294"></polygon>
+                    <path d="M0.827617787,5.66073147 C1.28469847,5.66073147 1.65523557,5.28896407 1.65523557,4.83036573 C1.65523557,4.3717674 1.28469847,4 0.827617787,4 C0.370537105,4 0,4.3717674 0,4.83036573 C0,5.28896407 0.370537105,5.66073147 0.827617787,5.66073147 Z" id="椭圆形"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

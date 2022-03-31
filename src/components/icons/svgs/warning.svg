@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>告警设置</title>
+    <g id="物联网3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="业务平台-主机构-无数据" transform="translate(-38.000000, -265.000000)">
+            <g id="告警设置" transform="translate(38.000000, 265.000000)">
+                <rect id="矩形" fill="#ADB1B8" x="0" y="0" width="16" height="16" rx="2"></rect>
+                <g id="编组-5" transform="translate(2.000000, 3.000000)">
+                    <polygon id="矩形" fill="#FFFFFF" points="2.48285336 -2.88090987e-17 9.13400849 0 9.93141345 8.30365735 1.65523557 8.30365735"></polygon>
+                    <polygon id="矩形" fill="#CCD0DE" points="4.96570672 1.66073147 6.6209423 1.66073147 6.34102539 4.98219441 5.18780088 4.98219441"></polygon>
+                    <path d="M5.79332451,7.47329161 C6.25040519,7.47329161 6.6209423,7.10152421 6.6209423,6.64292588 C6.6209423,6.18432755 6.25040519,5.81256014 5.79332451,5.81256014 C5.33624383,5.81256014 4.96570672,6.18432755 4.96570672,6.64292588 C4.96570672,7.10152421 5.33624383,7.47329161 5.79332451,7.47329161 Z" id="椭圆形" fill="#CCD0DE"></path>
+                    <polygon id="路径-4" fill="#FFFFFF" points="0.637501591 8.30365735 0 10 12 10 11.5099079 8.30365735"></polygon>
+                    <polygon id="路径-5" fill-opacity="0.199874344" fill="#D8D8D8" opacity="0.516987645" points="1.65523557 8.30365735 1.77923853 7.20029501 9.83228969 7.20029501 9.93141345 8.30365735"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

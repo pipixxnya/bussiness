@@ -1,0 +1,176 @@
+@mixin flex{
+    display:flex;
+}
+.flexBet{
+    @include flex;
+    justify-content: space-between;
+}
+.flexHorCenter{
+  @include flex;
+  justify-content: center;
+}
+.flexVerCenter{
+    @include flex;
+    align-items: center;
+}
+@mixin overSpread($value:100%){
+  width:$value;
+  height:$value
+}
+.overSpread{
+  @include overSpread
+}
+.flexCenter{
+    @extend .flexVerCenter;
+    justify-content: center;
+}
+.flexColumnVerCenter{
+  @include flex;
+  flex-direction: column;
+  justify-content: center
+}
+.flexColumnHorCenter{
+  @extend .flexVerCenter;
+  flex-direction: column;
+}
+.avatar-uploader{
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  .el-upload {
+    
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    &:hover{
+      border-color: #409eff;
+    }
+    .avatar-uploader-icon {
+      font-size: 28px;
+      color: #8c939d;
+      width: 178px;
+      height: 178px;
+      // text-align: center;
+      @extend .flexCenter
+    }
+    .avatar {
+      width: 178px;
+      height: 178px;
+      display: block;
+    }
+  }
+}
+.error-font{
+  height:12px;
+  &>p{
+    color:var(--el-color-danger);
+    font-size: 12px;
+    line-height: 12px;
+    padding: 0;
+    margin: 0;
+  }
+}
+.search-btn{
+  width: 80px;
+  height: 32px;
+}
+.left-list-item{
+  display:inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #595d78;
+  font-size: 14px;
+  font-weight: 550;
+  padding-left: 12px;
+  cursor:pointer;
+  width: 190px;
+  height: 32px;
+  &.active{
+    border-radius: 6px;
+    background:#E1EDFF;
+    color: #2785ff;
+  }
+  &:hover{
+    background:#ecf5ff
+  }
+}
+.handler-drawer{
+  &.el-drawer{
+      height: 85.8%;
+      transform: translate(-0.9vw,11vh);
+      border-radius: 10px;
+      box-shadow: -2px 0px 15px 0px rgba(127,139,151,0.38);
+      .el-form{
+        height: 92%;
+        overflow: auto;
+        margin-bottom:3%;
+      }
+      .el-form-item__content{
+        width:418px;
+      }
+      .el-date-editor{
+        --el-date-editor-daterange-width:100%;
+      }
+    }
+}
+@mixin btnGroup($dire:flex-end){
+  @include flex;
+  justify-content: $dire;
+}
+.width100{
+  width:100%
+}
+.left-content{
+  width:13%;
+  background:#fff;
+  padding: 0 20px;
+}
+.right-content{
+  width:86.7%;
+  background:#fff;
+  padding: 0 26px;
+}
+.search-form{
+  @extend .flexBet;
+}
+.search-form-item{
+  @extend .flexBet;
+}
+.search-item{
+  margin-right:10px;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {  
+-webkit-appearance: none;
+appearance: none;
+margin: 0;
+}
+input[type="number"] {
+-moz-appearance: textfield;
+}
+
+#iot-home .el-table{
+  margin-top:0;
+  border:none;
+  border-radius: 5px;
+  // --el-table-border-color:transparent;
+  .el-table__header{
+    height:64px;
+  }
+  .el-table__row{
+    height:68px;
+  }
+  .el-table--striped .el-table__body tr.el-table__row--striped td.el-table__cell{
+    background: #f8fbfe;
+  }
+  th.el-table__cell{
+    background:rgb(230, 241, 255);
+  }
+  td.el-table__cell, th.el-table__cell.is-leaf{
+    border-bottom:none
+  }
+}
+.pagination{
+  @include flex;
+  justify-content: flex-end;
+  margin-top:10px
+}
